@@ -7,8 +7,3 @@ while levitation_force < 10
   puts "Wingardium Leviosa#{levitation_force}."
 end
 end
-def using_until
-  until using_until == 10
-      puts "Wingardium Leviosa#{levitation_force}."
-  end
-end
