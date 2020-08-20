@@ -8,8 +8,8 @@ while levitation_force < 10
 end
 # => nil (return value)
 until levitation_force == 10
-  puts "The current number is less than 20."
-  counter += 1
+  puts "Wingardium Leviosa."
+  levitation_force += 1
 end
 
   #your code here
