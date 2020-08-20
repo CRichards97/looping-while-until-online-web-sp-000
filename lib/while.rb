@@ -11,6 +11,4 @@ until using_until == 10
   puts "Wingardium Leviosa#{levitation_force}."
   levitation_force += 1
 end
-
-  #your code here
 end
